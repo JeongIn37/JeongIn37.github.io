@@ -5,33 +5,25 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## About
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### <a href="https://jeongin37.github.io/"><center>IT's Jonnie</center></a>
 
-## Preview
+![](C:\Users\maste\Desktop\char.jpg)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+#### 소속
 
-## Getting Started
+숙명여자대학교 ICT융합공학부 IT공학전공
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<small>*SMWU DEPARTMENT OF INFORMATION TECHNOLOGY ENGINEERING*</small>
+
+
+#### 활동
+
+- **멋쟁이 사자처럼**
+  - 2020 8기 회원
+  - 2021 9기 운영진
+- 숙명여대 중앙도서관 리더십그룹 '**스마티어(SMARTeer)**' 15기
+  - 2020 교육부, 외교부 부원
+  - 2021 교육부 부장, 외교부 부원
