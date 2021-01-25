@@ -8,8 +8,6 @@ comments: false
 
 ### <a href="https://jeongin37.github.io/"><center>IT's Jonnie</center></a>
 
-![KakaoTalk_20201212_234717346](https://user-images.githubusercontent.com/54874529/105702647-6ff03380-5f4f-11eb-93a2-149acaac4205.jpg)
-
 
 ### <center>소속</center>
 
@@ -22,7 +20,7 @@ comments: false
 
 ### <center>활동</center>
 
-- **멋쟁이 사자처럼**
+<center>- **멋쟁이 사자처럼**
   - 2020 8기 회원
   - 2021 9기 운영진
   
