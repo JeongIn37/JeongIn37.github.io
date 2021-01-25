@@ -8,21 +8,21 @@ comments: false
 
 ### <a href="https://jeongin37.github.io/"><center>IT's Jonnie</center></a>
 
-![KakaoTalk_20210125_204753618](https://user-images.githubusercontent.com/54874529/105702215-d32d9600-5f4e-11eb-9cbc-0ab648817750.jpg)
+![KakaoTalk_20201212_234717346](https://user-images.githubusercontent.com/54874529/105702647-6ff03380-5f4f-11eb-93a2-149acaac4205.jpg)
 
 
 ### <center>소속</center>
 
-<center>숙명여자대학교 ICT융합공학부 IT공학전공
+<center>숙명여자대학교 ICT융합공학부 IT공학전공 </center>
 
-<small>*SMWU DEPARTMENT OF INFORMATION TECHNOLOGY ENGINEERING*</small> </center>
+<small>*<center>SMWU DEPARTMENT OF INFORMATION TECHNOLOGY ENGINEERING</center>*</small>
 
 
-
+<hr>
 
 ### <center>활동</center>
 
-<center>- **멋쟁이 사자처럼**
+- **멋쟁이 사자처럼**
   - 2020 8기 회원
   - 2021 9기 운영진
   
