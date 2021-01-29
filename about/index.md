@@ -9,7 +9,8 @@ comments: false
 
 ### <a href="https://jeongin37.github.io/"><center>IT's Jonnie</center></a>
 
-![222](https://user-images.githubusercontent.com/54874529/106296460-0cd70780-6295-11eb-91e8-f2b2225eb86a.png)
+![KakaoTalk_20201212_234717346](https://user-images.githubusercontent.com/54874529/106297915-976c3680-6296-11eb-8a48-74083205ee35.png)
+
 
 ### <center>소속</center>
 
@@ -20,8 +21,9 @@ comments: false
 
 <hr>
 
+### <center>활동</center>
 
-### <center>활동
+<div style="text-align:center">
 
 - **멋쟁이 사자처럼**
   - 2020 8기 회원
@@ -29,4 +31,6 @@ comments: false
 
 - 숙명여대 중앙도서관 리더십그룹 '**스마티어(SMARTeer)**' 15기
   - 2020 교육부, 외교부 부원
-  - 2021 교육부 부장, 외교부 부원 </center>
+  - 2021 교육부 부장, 외교부 부원
+
+</div>
