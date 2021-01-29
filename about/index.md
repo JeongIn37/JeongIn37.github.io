@@ -16,7 +16,7 @@ comments: false
 
 숙명여자대학교 ICT융합공학부 IT공학전공
 
-<small>*SMWU DEPARTMENT OF INFORMATION TECHNOLOGY ENGINEERING</small>
+<small>*SMWU DEPARTMENT OF INFORMATION TECHNOLOGY ENGINEERING*</small>
 
 
 <hr>
