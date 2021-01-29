@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Touring (by. P4P4)"
 date:   2021-01-30
 excerpt: "세상의 모든 여행, 투어링과 함께. 우리는 지금 함께 여행 중, Tour-ing"
